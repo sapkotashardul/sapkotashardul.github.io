@@ -228,6 +228,13 @@
       </div>
     {% endif %}
 
+    <div class="periodical" style="margin-bottom: 6px; font-size: .85rem;">
+      {% if entry.equal %}
+      <em> {{entry.equal}}</em>
+      {% endif %}
+    </div>
+  {% endif %}
+
     <div class="links">
     {% if entry.abstract %}
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
