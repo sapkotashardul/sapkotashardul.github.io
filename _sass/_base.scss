@@ -58,6 +58,12 @@ a, table.table a {
   }
 }
 
+@media (max-width: 575px) {
+  .profile {
+    width: 45%;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -375,6 +381,16 @@ footer.sticky-bottom.mt-5 {
   }
 }
 
+@media (max-width: 575px) {
+  .projects {
+    .grid-item{
+      margin-left:0 auto;
+      width: 100%;
+      // margin-left: 45px;
+      // width: 250px;
+    }          
+  }
+}
 
 // Publications
 
@@ -496,6 +512,35 @@ footer.sticky-bottom.mt-5 {
       }
     }
   }
+}
+
+// @media (max-width: 575px) {
+//   .img-fluid.custom {          
+//     display: none;
+//   }
+// }
+
+@media (max-width: 575px) {
+  #mobile_row {
+    // width: 50%;          
+    p {display: block;}
+    .vcenter{
+    width: 45%;
+    margin-bottom: 10px;
+    }
+  }
+  #desktop_row{
+    display: none;
+}
+}
+
+@media (min-width: 576px) {
+  #mobile_row {          
+    display: none;
+  }
+  #desktop_row{
+    p {display: block;}
+}
 }
 
 // Rouge Color Customization
