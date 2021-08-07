@@ -8,7 +8,7 @@ importance: 7
 
 A hands- and eyes-free input technique using jaw-teeth microgestures. The goal was to build a subtle interaction technique using jaw-teeth movements to interact with mobile devices when hands are busy. A small, wireless sensor node attached and concealed behind the user’s ears sensed such movements and teeth contacts by using a custom gesture classifier.
 
-I assisted in building the gesture recognition system and the gesture classifier– with which we were able to classify 4 discrete teeth contacts with upto 100% personalized accuracy– and also in the experiment design, data collection and anlaysis, and manuscript preparation. This project was led by Tomás Vega at the MIT Media Lab. The research was published as an extended abstract in [CHI 2019](https://dl.acm.org/doi/10.1145/3290607.3312925){:target="_blank"}.
+I assisted in building the gesture recognition system and the gesture classifier– with which we were able to classify 4 discrete teeth contacts with an average accuracy rate of 96% across 12 users– and also in the experiment design, data collection and anlaysis, and manuscript preparation. This project was led by Tomás Vega at the MIT Media Lab. Early efforts of this research was published as an extended abstract in [CHI 2019](https://dl.acm.org/doi/10.1145/3290607.3312925){:target="_blank"}.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
