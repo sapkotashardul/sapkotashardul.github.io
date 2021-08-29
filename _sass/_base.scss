@@ -327,9 +327,32 @@ footer.sticky-bottom.mt-5 {
   }
 }
 
+//card
+.card{
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
 
 // Projects
 
+@media (max-width: 575px) {
+  .overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    width: 100%;
+    transition: .5s ease;
+    opacity:1;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+}
+
+@media (min-width: 576px){
 .overlay {
   position: absolute; 
   bottom: 0; 
@@ -343,6 +366,7 @@ footer.sticky-bottom.mt-5 {
   font-size: 20px;
   padding: 20px;
   text-align: center;
+}
 }
 
 .projects {
@@ -385,8 +409,8 @@ footer.sticky-bottom.mt-5 {
   .projects {
     .grid-item{
       margin-left:0 auto;
-      width: 100%;
-      // margin-left: 45px;
+      width: 70%;
+      margin-left: 15%;
       // width: 250px;
     }          
   }

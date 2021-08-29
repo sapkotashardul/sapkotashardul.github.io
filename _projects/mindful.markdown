@@ -2,8 +2,8 @@
 layout: page
 title: mindful
 when: September 2019 - May 2020
-img: /assets/img/gradCPT/signals.jpeg
-importance: 4
+img: /assets/img/gradCPT/signals_inked.jpeg
+importance: 1
 ---
 
 Final year undergraduate thesis. I wanted to personalize the online learning experience for MOOCs. The goal was to develop a system that would detect periods of low attention span when a person was watching a video and create review content/quiz questions from those timestamps. 

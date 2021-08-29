@@ -4,7 +4,7 @@ title: standright
 team: "Team: Abishkar Chhetri, Elizabeth DeTienne, Shardul Sapkota"
 when: March 2019
 img: /assets/img/standright/actuator.png
-importance: 2
+importance: 5
 ---
 
 Final project for course 6.810 at MIT. We were motivated to help those recovering from leg injuries to avoid weight imbalance when walking or standing. The goal was to make an adaptive shoe which would tighten the laces upon detecting the imbalance and gradually adjust the feedback as users got better with their posture. 

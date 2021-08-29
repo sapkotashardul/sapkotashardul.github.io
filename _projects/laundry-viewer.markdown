@@ -4,7 +4,7 @@ title: laundry viewer
 team: "Team: Chua Yun Da, Horatio James Ho, Jaime Koh, Nod Nawat Bunnag, Shardul Sapkota"
 when: August 2019
 img: /assets/img/laundry-viewer/laundry-2-2.jpg
-importance: 1
+importance: 6
 ---    
 
 I started this project after having to wait too long for the laundry machines in my dorm to free up. The goal was to monitor the status of laundry machines in real-time using LED sensors so students could check the availabilities of the machines online before coming down to the laundry room.

@@ -3,7 +3,7 @@ layout: page
 title: prompto
 when: May 2019 - August 2020
 img: /assets/img/prompto/prompto.jpeg
-importance: 5
+importance: 2
 ---
 
 Conversational agent that provides memory training for prospective memory lapses, especially in older adults. The goal was to opportunistically provide training prompts when users would be cognitively available: during moments of lowered cognitive load or calm and idle moments, anticipating higher receptivity to learning and remembering. 
