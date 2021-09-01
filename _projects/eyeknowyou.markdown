@@ -6,7 +6,7 @@ img: /assets/img/eyeknowyou/thumbnail.png
 importance: 4
 ---
 
-A DIY head-mounted webcam which captures the eye and can classify corneal surface reflection as well as physiological parameters that contain information on cognitive load using a 3D CNN classifier. The goal was to build an open-sourced system with a DIY guide to replicate the low-cost hardware with an easy to use software toolkit for human factors researchers, especially for those researchers without an engineering background, to detect cognitive load and screen time across devices.
+A system with a DIY head-mounted webcam which captures the eye and is able to classify 1) corneal surface reflection to know what the person is looking at and 2) physiological parameters that contain information on cognitive load. The goal was to build an open-sourced system with a DIY guide to replicate the low-cost hardware with an easy to use software toolkit for human factors researchers, especially for those researchers without an engineering background, to detect cognitive load and screen time across devices.
 
 I helped build the software toolkit for EyeKnowYou and assisted in the experiment design, data collection, and manuscript preparation. This project was led by Tharindu Kaluarachchi at the Augmented Human Lab. The research was published as an extended abstract in Mobile HCI 2021.
 
