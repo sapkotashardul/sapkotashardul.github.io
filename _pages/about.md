@@ -26,8 +26,10 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Machine Learning Engineer at [Shopee](https://shopee.sg/){:target="_blank"}, where I work with the team responsible for training neural networks for its recommender system. Before joining Shopee, I was fortunate to have been able to study and conduct research on Human-Computer Interaction at the [NUS-HCI Lab](https://www.nus-hci.org/v2/){:target="_blank"}, the [Augmented Human Lab](http://www.ahlab.org/){:target="_blank"} (Auckland Bioengineering Institute), and the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/){:target="_blank"} (MIT Media Lab). I received my undergraduate degree from [Yale-NUS College](https://www.yale-nus.edu.sg/){:target="_blank"}, where my thesis focused on using physiological signals to detect changes in people's attentional states in real-time. 
 
-I am passionate about building interfaces and sensing technologies to enhance people's sensory and cognitive abilities. The result is often a wearable device that has been programmed for real-life interventions. 
+I am passionate about building sensing technologies and interfaces that detect and respond to subtle changes in cognitive state and social context. I am excited by the novel applications that these technologies often enable in health, learning, and productivity. 
 
+<!-- I am passionate about building interfaces and sensing technologies to enhance people's sensory and cognitive abilities. The result is often a wearable device that has been programmed for real-life interventions. 
+ -->
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
