@@ -18,6 +18,7 @@ pubs:
   gradCPT: gradCPT.jpg
   ubiquitous: ubiquitous.jpg
   eyeknowyou: eyeknowyou.jpg
+  nuwan_icon: nuwan_icon.jpg
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
