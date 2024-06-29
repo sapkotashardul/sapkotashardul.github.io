@@ -44,7 +44,7 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .profile { margin-left: 1rem; width: 100%; }
 
-.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: monospace; font-size: 1.2rem; }
+.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: monospace; font-size: small; }
 
 .profile .address p { display: inline-block; margin: 0; }
 
