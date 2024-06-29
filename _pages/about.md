@@ -24,11 +24,11 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a first year Computer Science PhD student at Stanford University, currently rotating with [Michael Bernstein](https://hci.stanford.edu/msb/). I spent the previous quarters rotating with [James Landay](https://www.landay.org/) and [Scott Delp](https://nmbl.stanford.edu/people/scott-delp/).
-
-Before Stanford, I was a Senior Machine Learning Engineer at [Shopee](https://shopee.sg/){:target="_blank"}, where I worked with the team responsible for training neural networks for its advertisement and recommender systems. Prior to joining Shopee, I was fortunate to have been able to study and conduct research on Human-Computer Interaction at the [NUS-HCI Lab](https://www.nus-hci.org/v2/){:target="_blank"}, the [Augmented Human Lab](http://www.ahlab.org/){:target="_blank"} (Auckland Bioengineering Institute), and the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/){:target="_blank"} (MIT Media Lab). I received my undergraduate degree from [Yale-NUS College](https://www.yale-nus.edu.sg/){:target="_blank"}, where my thesis focused on using physiological signals to detect changes in people's attentional states in real-time. 
+I am a first year Computer Science PhD student at Stanford University, where I am advised by [James Landay](https://www.landay.org/) and [Scott Delp](https://nmbl.stanford.edu/people/scott-delp/). 
 
 I am passionate about building large-scale and accessible tools that detect and respond to subtle changes in cognitive state and social context. These technologies often enable novel applications in health, learning, and productivity.
+
+Before Stanford, I was a Senior Machine Learning Engineer at [Shopee](https://shopee.sg/){:target="_blank"}, where I worked with the team responsible for training neural networks for its advertisement and recommender systems. Prior to joining Shopee, I was fortunate to have been able to study and conduct research on Human-Computer Interaction at the [NUS-HCI Lab](https://www.nus-hci.org/v2/){:target="_blank"}, the [Augmented Human Lab](http://www.ahlab.org/){:target="_blank"} (Auckland Bioengineering Institute), and the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/){:target="_blank"} (MIT Media Lab). I received my undergraduate degree from [Yale-NUS College](https://www.yale-nus.edu.sg/){:target="_blank"}, where my thesis focused on using physiological signals to detect changes in people's attentional states in real-time. 
 
 
 <!-- I am passionate about building interfaces and sensing technologies to enhance people's sensory and cognitive abilities. The result is often a wearable device that has been programmed for real-life interventions. 
