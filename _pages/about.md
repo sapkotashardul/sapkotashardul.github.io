@@ -19,6 +19,9 @@ pubs:
   ubiquitous: ubiquitous.jpg
   eyeknowyou: eyeknowyou.jpg
   nuwan_icon: nuwan_icon.jpg
+  addbiomechanics: addbiomechanics.jpg
+  gptcoach: gptcoach.jpg
+  opencapmono: opencapmono.jpg
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,7 +33,7 @@ My research focuses on designing sensing systems and interfaces for health and w
 
 <!-- I am passionate about building large-scale and accessible tools that detect and respond to subtle changes in cognitive state and social context. These technologies often enable novel applications in health, learning, and productivity. -->
 
-Before Stanford, I was a Senior Machine Learning Engineer at [Shopee](https://shopee.sg/){:target="_blank"}, where I worked with the team responsible for training neural networks for its advertisement and recommender systems. Prior to joining Shopee, I was fortunate to have been able to study and conduct research on Human-Computer Interaction at the [NUS-HCI Lab](https://www.nus-hci.org/){:target="_blank"} with Professor Shengdong Zhao, the [Augmented Human Lab](http://www.ahlab.org/){:target="_blank"} (Auckland Bioengineering Institute) with Professor Suranga Nanayakkara, and the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/){:target="_blank"} (MIT Media Lab) with [Tomás Vega](https://www.linkedin.com/in/vegatomas){:target="_blank"}. I received my undergraduate degree from [Yale-NUS College](https://www.yale-nus.edu.sg/){:target="_blank"}, where my thesis focused on using physiological signals to detect changes in people's attentional states in real-time. 
+Before Stanford, I was a Senior Machine Learning Engineer at [Shopee](https://shopee.sg/){:target="_blank"}, where I worked with the team responsible for training neural networks for its advertisement and recommender systems. Prior to joining Shopee, I was fortunate to have been able to study and conduct research on Human-Computer Interaction at the [NUS-HCI Lab](https://www.nus-hci.org/){:target="_blank"} with Professor [Shengdong Zhao](https://shengdongzhao.com/){:target="_blank"}, the [Augmented Human Lab](http://www.ahlab.org/){:target="_blank"} (Auckland Bioengineering Institute) with Professor [Suranga Nanayakkara](https://suranga.info/){:target="_blank"}, and the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/){:target="_blank"} (MIT Media Lab) with [Tomás Vega](https://www.linkedin.com/in/vegatomas){:target="_blank"}. I received my undergraduate degree from [Yale-NUS College](https://www.yale-nus.edu.sg/){:target="_blank"}, where my thesis focused on using physiological signals to detect changes in people's attentional states in real-time. 
 
 
 <!-- I am passionate about building interfaces and sensing technologies to enhance people's sensory and cognitive abilities. The result is often a wearable device that has been programmed for real-life interventions. 
