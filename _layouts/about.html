@@ -21,6 +21,14 @@ layout: default
         <div class="address">
           {{ page.profile.address }}
         </div>
+        <div class="contact-icons" style="
+        display: flex;           /* Enable flexbox layout */
+        justify-content: center; /* Center align horizontally */
+        gap: 15px;">
+        <a href="https://scholar.google.com/citations?user=VLqcMi8AAAAJ&amp;hl" target="_blank" title="Google Scholar"  style="font-size: 30px;"><i class="ai ai-google-scholar"></i></a>
+        <a href="https://github.com/sapkotashardul" target="_blank" title="GitHub"  style="font-size: 30px;"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/sapkotashardul" target="_blank" title="LinkedIn" style="font-size: 30px;"><i class="fab fa-linkedin" style="font-size: 30px;"></i></a>
+        </div>              
       {% endif %}
     </div>
     {% endif %}
@@ -49,15 +57,7 @@ layout: default
       <div class="contact-icons">
         {% include social.html %}
       </div>
-      <!-- <div class="contact-note">{{ site.contact_note }}</div> -->
-      <div class="contact-icons" style="
-      display: flex;           /* Enable flexbox layout */
-      justify-content: center; /* Center align horizontally */
-      gap: 15px;">
-      <a href="https://scholar.google.com/citations?user=VLqcMi8AAAAJ&amp;hl" target="_blank" title="Google Scholar"  style="font-size: 30px;"><i class="ai ai-google-scholar"></i></a>
-      <a href="https://github.com/sapkotashardul" target="_blank" title="GitHub"  style="font-size: 30px;"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/sapkotashardul" target="_blank" title="LinkedIn" style="font-size: 30px;"><i class="fab fa-linkedin" style="font-size: 30px;"></i></a>
-      </div>      
+      <div class="contact-note">{{ site.contact_note }}</div>
     </div>
     {% endif %}
   </article>
