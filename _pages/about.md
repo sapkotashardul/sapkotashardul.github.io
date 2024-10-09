@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a second year Computer Science PhD student at Stanford University, where I am advised by Professors [James Landay](https://www.landay.org/){:target="_blank"} and [Scott Delp](https://nmbl.stanford.edu/people/scott-delp/){:target="_blank"}. 
 
-My research focuses on designing sensing systems and interfaces for health and wellbeing. I am currently working on developing new approaches to unobtrusively monitor health by understanding how people interact with their everyday environment (e.g. using computer vision to perform fall risk assessment).
+My research focuses on designing sensing systems and interfaces for health and wellbeing. I am currently working on developing new approaches to unobtrusively monitor health by understanding how people interact with their everyday environment (e.g., using computer vision to perform fall risk assessment).
 
 <!-- I am passionate about building large-scale and accessible tools that detect and respond to subtle changes in cognitive state and social context. These technologies often enable novel applications in health, learning, and productivity. -->
 
