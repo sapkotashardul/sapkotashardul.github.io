@@ -80,7 +80,7 @@
         {{entry.year}}
       {% endif %}
       {% if entry.award %}
-        <span class="award-pill">{{ entry.award }}</span>
+        <span class="award-pill" style="display: inline; color: #007bff !important; font-weight: bold; margin-left: 0.5rem;">{{ entry.award }}</span>
       {% endif %}
       </div>
 
@@ -107,6 +107,9 @@
       {% else %}
       <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       {% endif %}
+    {% endif %}
+    {% if entry.project %}
+      <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Project</a>
     {% endif %}
     {% if entry.supp %}
       {% if entry.supp contains '://' %}
@@ -229,7 +232,7 @@
         {{entry.year}}
       {% endif %}
       {% if entry.award %}
-        <span class="award-pill">{{ entry.award }}</span>
+        <span class="award-pill" style="display: inline; color: #007bff !important; font-weight: bold; margin-left: 0.5rem;">{{ entry.award }}</span>
       {% endif %}
       </div>
     {% endif %}
@@ -257,6 +260,9 @@
       {% else %}
       <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       {% endif %}
+    {% endif %}
+    {% if entry.project %}
+      <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Project</a>
     {% endif %}
     {% if entry.supp %}
       {% if entry.supp contains '://' %}

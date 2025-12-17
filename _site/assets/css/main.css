@@ -196,7 +196,9 @@ footer.sticky-bottom.mt-5 { border-top: 1px solid #e8e8e8; padding-top: 40px; pa
 
 .publications ol.bibliography li .abbr abbr a:hover { text-decoration: none; }
 
-.publications ol.bibliography li .award-pill { display: inline; color: #007bff; font-weight: bold; text-transform: lowercase; margin-left: 0.5rem; }
+.publications ol.bibliography li .award-pill { display: inline !important; color: #0076df !important; font-weight: 475 !important; text-transform: lowercase; margin-left: 0.5rem; }
+
+.publications ol.bibliography li .periodical .award-pill { display: inline !important; color: #0076df !important; font-weight: 475 !important; text-transform: lowercase; margin-left: 0.5rem; }
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
