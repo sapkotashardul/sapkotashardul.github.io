@@ -79,6 +79,9 @@
       {% if entry.year %}
         {{entry.year}}
       {% endif %}
+      {% if entry.award %}
+        <span class="award-pill">{{ entry.award }}</span>
+      {% endif %}
       </div>
 
       <div class="periodical" style="margin-bottom: 6px; font-size: .85rem;">
@@ -224,6 +227,9 @@
       {% endif %}
       {% if entry.year %}
         {{entry.year}}
+      {% endif %}
+      {% if entry.award %}
+        <span class="award-pill">{{ entry.award }}</span>
       {% endif %}
       </div>
     {% endif %}

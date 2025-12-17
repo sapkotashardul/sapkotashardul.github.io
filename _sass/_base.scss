@@ -463,10 +463,13 @@ footer.sticky-bottom.mt-5 {
             }
           }
         }
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
+      }
+      .award-pill {
+        display: inline;
+        color: #007bff;
+        font-weight: bold;
+        text-transform: lowercase;
+        margin-left: 0.5rem;
       }
       .title {
         font-weight: bolder;

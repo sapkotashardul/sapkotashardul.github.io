@@ -22,12 +22,14 @@ pubs:
   addbiomechanics: addbiomechanics.jpg
   gptcoach: gptcoach.jpg
   opencapmono: opencapmono.jpg
+  bloom: bloom.jpg
+  gum: gum.jpg
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a second year Computer Science PhD student at Stanford University, where I am advised by Professors [James Landay](https://www.landay.org/){:target="_blank"} and [Scott Delp](https://nmbl.stanford.edu/people/scott-delp/){:target="_blank"}. 
+I am a third year Computer Science PhD student at Stanford University, where I am advised by Professors [James Landay](https://www.landay.org/){:target="_blank"} and [Scott Delp](https://nmbl.stanford.edu/people/scott-delp/){:target="_blank"}. 
 
 My research focuses on designing sensing systems and interfaces for health and wellbeing. I am currently working on developing new approaches to unobtrusively monitor health by understanding how people interact with their everyday environment (e.g., using computer vision to perform fall risk assessment).
 
